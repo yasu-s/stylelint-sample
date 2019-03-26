@@ -10,5 +10,8 @@
   "[css]": {
     "editor.formatOnSave": true
   },
+  "[html]": {
+    "editor.formatOnSave": true
+  },
   "prettier.stylelintIntegration": true
 }
