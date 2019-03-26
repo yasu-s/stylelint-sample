@@ -1,0 +1,9 @@
+{
+  "name": "stylelint-sample",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier-stylelint": "^0.4.2",
+    "stylelint-config-idiomatic-order": "^6.2.0"
+  }
+}
